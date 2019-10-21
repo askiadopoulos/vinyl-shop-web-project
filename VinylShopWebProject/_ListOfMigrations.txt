@@ -1,0 +1,29 @@
+﻿List of Migrations
+
+01. InitialIdentityFrameworkModels - delivered
+	+ Creation of database tables:
+		- AspNetRoles
+		- AspNetUserRoles
+		- AspNetUsers
+		- AspNetUserClaims
+		- AspNetUserLogins
+02. Add Customer to Models - delivered
+03. Relate Customer with AspNetUsers - delivered
+04. Add Product to Models - delivered
+05. Add Category to Models - delivered
+06. Relate Category with Product (One-To-Many) (Fluent API) - delivered
+07. Add Genre and RecordLabel to Models - delivered
+08. Add Vinyl and Inheritance with Product (Table Per Hierarchy) to Models  - delivered
+09. Relate Genre and RecordLabel with Vinyl (One-To-Many) (Fluent API) - delivered
+10. Add Format to Model and Related with Vinyl (Many-To-Many) (Fluent API) - delivered
+11. Add ContentFile to Model and Related with Product (One-To-Many) (Following Conventions) - delivered
+12. Populate Genres - delivered
+13. Populate Categories - delivered
+14. Populate Formats - delivered
+15. Populate RecordLabels - delivered
+16. Add Order to Model and Relate it With Customer (One-To-Many) (Fluent API) - delivered
+17. Add Associative Entity OrderDetail to Model (One-To-Many) (Following Conventions) - delivered
+	+ Product has Relationship Many-To-Many with Order and vice-versa
+		- Product -> One-To-Many -> OrderDetail
+		- Order -> One-To-Many -> OrderDetail
+

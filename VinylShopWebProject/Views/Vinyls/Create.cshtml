@@ -1,0 +1,123 @@
+﻿@model VinylShopWebProject.ViewModels.VinylFormViewModel
+
+@{
+    ViewBag.Title = "Add a Vinyl";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add a new Vinyl</h2>
+
+@*Where it will POST the form*@
+@using (Html.BeginForm("Create", "Vinyls", null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    //Prevents from CSRF Attack
+    @Html.AntiForgeryToken();
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Artist)
+        @Html.TextBoxFor(m => m.Vinyl.Artist, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Title)
+        @Html.TextBoxFor(m => m.Vinyl.Title, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.ReleaseDate)
+        @Html.TextBoxFor(m => m.Vinyl.ReleaseDate, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Quantity)
+        @Html.TextBoxFor(m => m.Vinyl.Quantity, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Price)
+        @Html.TextBoxFor(m => m.Vinyl.Price, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ImageSample)
+        <br />
+        <img src="~/Content/images/no_preview.png" class="form-group" id="thumbnail" />
+        <br />
+        <input type="file" id="ImageSample" name="postedImage" />
+        @*<br />*@
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.AudioSample)
+        <br />
+        <audio controls id="audioFile"></audio>
+        <br />
+        <input type="file" id="AudioSample" name="postedAudio" />
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.IsAvailable)
+        @Html.CheckBoxFor(m => m.Vinyl.IsAvailable, new { @class = "form-group", id = "checkbox" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Genre)
+        @*Based on Genre Id it will display the Genre's Name, with default value: --Select--*@
+        @Html.DropDownListFor(m => m.Vinyl.Genre, new SelectList(Model.Genres, "Id", "Name"), "--Select--", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Category@*Category*@)
+        @*Based on Category Id it will display the Category's Description, with default value: --Select--*@
+        @Html.DropDownListFor(m => m.Vinyl.Category, new SelectList(Model.Categories, "Id", "Description"), "--Select--", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.RecordLabel)
+        @*Based on RecordLabel Id it will display the Record Label's Name, with default value: --Select--*@
+        @Html.DropDownListFor(m => m.Vinyl.RecordLabel, new SelectList(Model.RecordLabels, "Id", "Name"), "--Select--", new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
+@section scripts
+{
+    @*Display preview selected image in input type file using JQuery*@
+    @*Display selected image of a new vinyl product as a thumbnail*@
+    <script type="text/javascript">
+
+        function readURL(input) {
+            if (input.files && input.files[0]) {
+                var imageFileReader = new FileReader();
+
+                imageFileReader.onload = function (e) {
+                    $('#thumbnail').attr('src', e.target.result);
+                }
+                imageFileReader.readAsDataURL(input.files[0]);
+            }
+        }
+        $("#ImageSample").change(function () {
+            readURL(this);
+        });
+
+
+        var $audio = $('#audioFile');
+        $('input').on('change', function (e) {
+            var target = e.currentTarget;
+            var file = target.files[0];
+            var reader = new FileReader();
+
+            console.log($audio[0]);
+            if (target.files && file) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $audio.attr('src', e.target.result);
+                    $audio.play();
+                }
+                reader.readAsDataURL(file);
+            }
+        });
+
+
+    </script>
+}

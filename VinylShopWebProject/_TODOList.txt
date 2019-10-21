@@ -1,0 +1,38 @@
+﻿List of Tasks
+
+01. Create ASP.NET MVC Web project with User Authedication - in progress
+02. Modify the connection string inside Web.config - delivered
+03. Separation of Concerns:
+	- Create new class -> ApplicationDbContext with DbSets, OnModelCreating, ApplicationDbContext() and Create() methods
+	- Rename IdentityModels -> ApplicationUser with only the GenerateUserIdentityAsync() method
+04. Enable Migrations - delivered
+05. Separation of Concerns:
+	-Rename IdentityUser -> ApplicationUser
+	-Create new class -> ApplicationDbContext
+	-Refactoring
+06. Initialize the Identity Framework Entities
+07. Create models and define relationships among them - in progress
+08. Create Enumeration separate file -> FileType, to hold the file types for the Content Files
+09. Create new folder with no_preview.png image inside parent folder -> Content
+10. Install Bootstrap theme -> Darkly (from Bootswatch) and make changes in BundleConfig.cs and Site.css
+11. Create MVC Controller -> Vinyls
+12. Create Static Class -> ConstantAttribute, to store all the constant strings for the Data Annotation Attributes
+13. Create ViewModel Class -> VinylFormViewModel
+14. Create Views -> Create, Edit, to add or edit vinyls
+15. Create ViewModel Class -> VinylTopSalesViewModel with View, to render best sellings and top choices of vinyls
+16. Changes made in the Front-End (Views): Shared -> _Layout and Views -> Home -> Index
+17. Populate RecordLabels, Genres, Categories, Formats
+18. Extract Navigation Bar from _Layout as partial view
+19. Install and integrate JQuery Datatables, JS Bootbox
+20. Implement TopSalesViewModel (like FavouriteViewModel in Bootflix)
+21. How many customers (buyers) bought a single vinyl or the number of sales for a specific vinyl
+22. Create view -> TopSalesView, to render the sales statistics
+23. Implement Custom Validation Attribute -> CheckReleaseDate, to use in Vinyl model
+24. Creation of folder -> api & Dtos, in root (project) dir
+	- new web api 2.0 -> VinylsController
+	- register web api configuration in Global.asax
+	- new class SerieDto
+25. Install AutoMapper 8.0.0 from PM
+	- create class -> OrganizationProfile, inside App_Start
+	- initialize Mapper by adding profile -> OrganizationProfile, in Global.asax
+	- Create Map between Vinyl and VinylDto

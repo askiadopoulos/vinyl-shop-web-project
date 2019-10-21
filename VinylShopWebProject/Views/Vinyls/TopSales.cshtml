@@ -1,0 +1,28 @@
+﻿@model VinylShopWebProject.ViewModels.TopSalesViewModel
+
+@{ 
+    ViewBag.Title = "Top Sales";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{ 
+    var className = Model.OrderDetails.Count > 50
+        ? "Top Choice" : Model.OrderDetails.Count > 20
+        ? "Best Selling Vinyl" : null;
+}
+
+<h2 class="@className">@Model.Vinyl.Title</h2>
+
+@if(Model.OrderDetails.Count == 0)
+{
+    <text>No Customer has ever buy this Vinyl.</text>
+}
+else
+{
+    <ul>
+        @foreach (var orderDetails in Model.OrderDetails)
+        {
+            <li>@orderDetails.Product</li>
+        }
+    </ul>
+}

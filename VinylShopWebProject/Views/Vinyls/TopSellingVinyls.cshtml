@@ -1,0 +1,49 @@
+﻿@model VinylShopWebProject.ViewModels.VinylTopSalesViewModel
+@{
+    ViewBag.Title = "Top Sales";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Best Sellings and Top Choices on Vinyls</h2>
+
+@if (Model.Vinyls.Count() == 0)
+{
+    <h3>No Vinyls Found !</h3>
+}
+else
+{
+    var bestSellingVinyls = Model.Vinyls.Where(v => v.Quantity > 50); // TODO: Table Orders (or Sales)
+    var classBestSale = bestSellingVinyls.Count() > 0 ? "Best Sales" : null;
+
+    if (classBestSale.IsEmpty())
+    {
+        <h4>There are NO Best Sellings & Top Choices on Vinyls</h4>
+    }
+    else
+    {
+        <h4>@classBestSale</h4>
+        <ol style="font-size: large">
+            @foreach (var vinyl in bestSellingVinyls)
+            {
+                <li>@vinyl.Artist | @vinyl.Title</li>
+            }
+        </ol>
+        var topChoiceVinyls = Model.Vinyls.Where(v => v.Quantity > 100); // TODO: Table Orders (or Sales)
+        var classTopChoice = topChoiceVinyls.Count() > 0 ? "Top Choices" : null;
+
+        if (classTopChoice.IsEmpty())
+        {
+            <h4>No Top Choice Vinyls</h4>
+        }
+        else
+        {
+            <h4>@classTopChoice</h4>
+            <ol style="font-size: large">
+                @foreach (var vinyl in topChoiceVinyls)
+                {
+                    <li>@vinyl.Artist | @vinyl.Title</li>
+                }
+            </ol>
+        }
+    }
+}

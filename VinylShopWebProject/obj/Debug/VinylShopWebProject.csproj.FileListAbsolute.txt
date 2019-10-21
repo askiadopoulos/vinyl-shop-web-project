@@ -1,0 +1,524 @@
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.dll.config
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.pdb
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.exe
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.exe.config
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.rsp
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.exe
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.exe.config
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.rsp
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.AppContext.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Collections.Immutable.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Console.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Compression.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.FileSystem.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Pipes.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.AccessControl.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Claims.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.ValueTuple.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XPath.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.exe
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.exe.config
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.rsp
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\VBCSCompiler.exe
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\roslyn\VBCSCompiler.exe.config
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Antlr3.Runtime.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.SqlServer.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Google.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Web.Infrastructure.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Newtonsoft.Json.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Owin.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Helpers.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Mvc.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Optimization.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Razor.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Deployment.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Razor.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\WebGrease.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Helpers.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Mvc.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Optimization.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Razor.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Deployment.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Razor.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Newtonsoft.Json.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Antlr3.Runtime.pdb
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.SqlServer.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Google.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csprojAssemblyReference.cache
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.CoreCompileInputs.cache
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.CopyComplete
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.dll
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.pdb
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.InitialIdentityFrameworkModels.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.GenerateResource.cache
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddCustomerToModel.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateCustomerWithAspNetUsers.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddProductToModel.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddCategoryToModel.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateCategoryWithProduct.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddGenreAndRecordLabelToModels.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddVinylAndInheritanceWithProductToModels.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateGenreAndRecordLabelWithVinyl.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddFormatToModelAndRelatedWithVinyl.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddContentFileToModelAndRelatedWithProduct.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateGenres.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateCategories.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateFormats.resources
+D:\BootCamp07\C#\Repos\Labs\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateRecordLabel.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.dll.config
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.pdb
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.exe
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.exe.config
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.rsp
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.exe
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.exe.config
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.rsp
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.AppContext.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Collections.Immutable.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Console.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Compression.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.FileSystem.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Pipes.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.AccessControl.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Claims.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.ValueTuple.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XPath.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.exe
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.exe.config
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.rsp
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\VBCSCompiler.exe
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\VBCSCompiler.exe.config
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Antlr3.Runtime.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.SqlServer.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Google.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Web.Infrastructure.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Newtonsoft.Json.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Owin.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Helpers.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Mvc.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Optimization.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Razor.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Deployment.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Razor.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\WebGrease.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Helpers.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Mvc.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Optimization.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Razor.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Deployment.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Razor.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Newtonsoft.Json.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Antlr3.Runtime.pdb
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.SqlServer.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Google.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csprojAssemblyReference.cache
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.InitialIdentityFrameworkModels.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddCustomerToModel.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateCustomerWithAspNetUsers.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddProductToModel.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddCategoryToModel.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateCategoryWithProduct.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddGenreAndRecordLabelToModels.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddVinylAndInheritanceWithProductToModels.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateGenreAndRecordLabelWithVinyl.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddFormatToModelAndRelatedWithVinyl.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddContentFileToModelAndRelatedWithProduct.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateGenres.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateCategories.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateFormats.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateRecordLabel.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.GenerateResource.cache
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.CopyComplete
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.pdb
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddOrderToModelAndRelatedWithCustomer.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddAssociativeEntityOrderDetailsToModel.resources
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\AutoMapper.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Net.Http.Formatting.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.ValueTuple.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.WebHost.dll
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\AutoMapper.pdb
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\AutoMapper.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Net.Http.Formatting.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.ValueTuple.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.xml
+D:\DOWNLOADS\CB7\Projects\WebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.WebHost.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csprojAssemblyReference.cache
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.InitialIdentityFrameworkModels.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddCustomerToModel.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateCustomerWithAspNetUsers.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddProductToModel.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddCategoryToModel.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddGenreAndRecordLabelToModels.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddVinylAndInheritanceWithProductToModels.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddFormatToModelAndRelatedWithVinyl.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateGenres.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateCategories.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateFormats.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateRecordLabel.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddOrderToModelAndRelatedWithCustomer.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddAssociativeEntityOrderDetailsToModel.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.GenerateResource.cache
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.pdb
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.dll.config
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.pdb
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.exe
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.exe.config
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.rsp
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.exe
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.exe.config
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.rsp
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.AppContext.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Collections.Immutable.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Console.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Compression.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.FileSystem.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Pipes.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.AccessControl.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Claims.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.ValueTuple.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XPath.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.exe
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.exe.config
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.rsp
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\VBCSCompiler.exe
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\VBCSCompiler.exe.config
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Antlr3.Runtime.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\AutoMapper.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.SqlServer.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Google.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Web.Infrastructure.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Newtonsoft.Json.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Owin.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Net.Http.Formatting.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.ValueTuple.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Helpers.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.WebHost.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Mvc.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Optimization.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Razor.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Deployment.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Razor.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\WebGrease.dll
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\AutoMapper.pdb
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\AutoMapper.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Net.Http.Formatting.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.ValueTuple.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.WebHost.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Helpers.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Mvc.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Optimization.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Razor.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Deployment.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Razor.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Newtonsoft.Json.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Antlr3.Runtime.pdb
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.SqlServer.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Google.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.CopyComplete
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateCategoryWithProduct.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateGenreAndRecordLabelWithVinyl.resources
+D:\DOWNLOADS\CB7_Library\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddContentFileToModelAndRelateWithProduct.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.dll.config
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\VinylShopWebProject.pdb
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.exe
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.exe.config
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csc.rsp
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.exe
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.exe.config
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\csi.rsp
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.AppContext.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Collections.Immutable.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Console.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Compression.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.FileSystem.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.IO.Pipes.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.AccessControl.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Claims.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.ValueTuple.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XPath.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.exe
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.exe.config
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\vbc.rsp
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\VBCSCompiler.exe
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\roslyn\VBCSCompiler.exe.config
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Antlr3.Runtime.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\AutoMapper.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.SqlServer.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Google.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Web.Infrastructure.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Newtonsoft.Json.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Owin.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Net.Http.Formatting.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.ValueTuple.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Helpers.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.WebHost.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Mvc.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Optimization.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Razor.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Deployment.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Razor.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\WebGrease.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\AutoMapper.pdb
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\AutoMapper.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Net.Http.Formatting.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.ValueTuple.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Http.WebHost.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Helpers.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Mvc.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Optimization.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.Razor.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Deployment.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\System.Web.WebPages.Razor.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Newtonsoft.Json.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Antlr3.Runtime.pdb
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\EntityFramework.SqlServer.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Google.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csprojAssemblyReference.cache
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.InitialIdentityFrameworkModels.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddCustomerToModel.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateCustomerWithAspNetUsers.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddProductToModel.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddCategoryToModel.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddGenreAndRecordLabelToModels.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddVinylAndInheritanceWithProductToModels.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddFormatToModelAndRelatedWithVinyl.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateGenres.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateCategories.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateFormats.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.PopulateRecordLabel.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddOrderToModelAndRelatedWithCustomer.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddAssociativeEntityOrderDetailsToModel.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.RelateGenreAndRecordLabelWithVinyl.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.AddContentFileToModelAndRelateWithProduct.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.GenerateResource.cache
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.csproj.CopyComplete
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.dll
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.pdb
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.test.resources
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\TeamWebProject\VinylShopWebProject\VinylShopWebProject\obj\Debug\VinylShopWebProject.Migrations.testing.resources

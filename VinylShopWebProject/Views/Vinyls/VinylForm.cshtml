@@ -1,0 +1,178 @@
+﻿@model VinylShopWebProject.ViewModels.VinylFormViewModel
+@{
+    ViewBag.Title = "Edit a Vinyl";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit an Existing Vinyl</h2>
+
+@using (Html.BeginForm("Save", "Vinyls", null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    //Prevents from CSRF Attack
+    @Html.AntiForgeryToken()
+
+    //Client-side Validation
+    @Html.ValidationSummary()
+    @Html.HiddenFor(m => m.Vinyl.Id)
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Artist)
+        @Html.TextBoxFor(m => m.Vinyl.Artist, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Vinyl.Artist)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Title)
+        @Html.TextBoxFor(m => m.Vinyl.Title, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Vinyl.Title)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.ReleaseDate)
+        @Html.TextBoxFor(m => m.Vinyl.ReleaseDate, "{0:d MMM yyyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Vinyl.ReleaseDate)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Quantity)
+        @Html.TextBoxFor(m => m.Vinyl.Quantity, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Vinyl.Quantity)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Price)
+        @Html.TextBoxFor(m => m.Vinyl.Price, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Vinyl.Price)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ImageSample)
+        <br />
+        @{
+            var imageId = Model.Vinyl.ContentFiles
+                .SingleOrDefault(cf => cf.ProductId == Model.Vinyl.Id && (int)cf.FileType == 1);
+
+            var picture = string.Format("data:image/jpeg;base64,{0}", Convert.ToBase64String(imageId.Content));
+        }
+        <img src="@Url.Content(picture)" class="form-group" id="thumbnail" />
+        <br />
+        <label id="imageFileLabel">Filename: @imageId.FileName</label>
+        <input type="file" id="ImageSample" onchange="imageButtonPressed()" name="postedImage" />@*<label id="fileLabel">@imageId.FileName</label>*@
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.AudioSample)
+
+        @{
+            var audioId = Model.Vinyl.ContentFiles
+                .SingleOrDefault(cf => cf.ProductId == Model.Vinyl.Id && (int)cf.FileType == 2);
+
+            var audio = string.Format("data:audio/wav;base64,{0}", Convert.ToBase64String(audioId.Content));
+        }
+        <br />
+        <audio controls id="audioFile">
+            <source src="@Url.Content(audio)" id="audio" />
+        </audio>
+        <br />
+        <label id="audioFileLabel">Filename: @audioId.FileName</label>
+        <input type="file" id="AudioSample" onchange="audioButtonPressed()" name="postedAudio" />
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.IsAvailable)
+        @Html.CheckBoxFor(m => m.Vinyl.IsAvailable, new { @class = "form-group", id = "checkbox" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Genre)
+        @Html.DropDownListFor(m => m.Vinyl.GenreId, new SelectList(Model.Genres, "Id", "Name"), new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Vinyl.GenreId)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.Category@*Category*@)
+        @Html.DropDownListFor(m => m.Vinyl.CategoryId, new SelectList(Model.Categories, "Id", "Description"), new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Vinyl.CategoryId)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vinyl.RecordLabel)
+        @Html.DropDownListFor(m => m.Vinyl.RecordLabelId, new SelectList(Model.RecordLabels, "Id", "Name"), new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Vinyl.RecordLabel.Name)
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
+@section scripts
+{
+    @*Activates the bundle jquery*@
+    @Scripts.Render("~/bundle/jqueryval")
+
+    <script type="text/javascript">
+
+        // Display the filename of the selected image to upload
+        window.imageButtonPressed = function () {
+            var image = document.getElementById('ImageSample');
+            var imageSplit = image.value.split('\\');
+
+            imageFileLabel.innerHTML = imageSplit[imageSplit.length - 1];
+        };
+        // Display the filename of the selected audio to upload
+        window.audioButtonPressed = function () {
+            var audio = document.getElementById('AudioSample');
+            var audioSplit = audio.value.split('\\');
+
+            audioFileLabel.innerHTML = audioSplit[audioSplit.length - 1];
+        }
+
+        // Display preview selected image in input type file
+        function readURL(input) {
+            if (input.files && input.files[0]) {
+                var imageFileReader = new FileReader();
+                //var audioFileReader = new FileReader();
+
+                imageFileReader.onload = function (e) {
+                    $('#thumbnail').attr('src', e.target.result);
+                }
+                imageFileReader.readAsDataURL(input.files[0]);
+
+                //audioFileReader.onload = function (e) {
+                //    $('#audio').attr('src', e.target.result);
+                //}
+                //audioFileReader.readAsDataURL(input.files[0])
+            }
+        }
+        $("#ImageSample").change(function () {
+            readURL(this);
+        });
+
+        //$("#AudioSample").change(function () {
+        //    readURL(this);
+        //});
+
+
+
+        var $audio = $('#audioFile');
+        $('input').on('change', function (e) {
+            var target = e.currentTarget;
+            var file = target.files[0];
+            var reader = new FileReader();
+
+            console.log($audio[0]);
+            if (target.files && file) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $audio.attr('src', e.target.result);
+                    $audio.play();
+                }
+                reader.readAsDataURL(file);
+            }
+        }); /*debugger;*/
+
+
+
+
+
+    </script>
+}
